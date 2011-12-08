@@ -1,0 +1,11 @@
+{
+  "shell-version": [  "3.2.0",
+                      "3.2.1",
+                      "3.3.2"
+                   ], 
+  "uuid": "nohotcorner@ovangle", 
+  "name": "No Hot Corner", 
+  "description": "Disable the hot corner of the activities button in the gnome panel"
+  "url": "https://github.com/ovangle/No-Hot-Corner",
+  "version": 1
+}

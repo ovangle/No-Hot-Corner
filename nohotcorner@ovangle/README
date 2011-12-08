@@ -1,0 +1,10 @@
+NO HOT CORNER
+Thomas Stephenson <ovangle@gmail.com>
+
+
+Gnome Shell Extension to disable the Hot Corner from the Activities Button in the Gnome Panel
+
+Install:
+Copy the nohotcorner@ovangle directory into ~/.local/share/gnome-shell/extensions/
+
+Note the name of the directory is important.
